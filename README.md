@@ -54,4 +54,4 @@ Prinsip estimasi debit dan muka air dari sinyal listrik pompa sudah ada di liter
 
 ## Lisensi
 
-Belum ditentukan. Tanpa lisensi, semua hak dipegang tim. Tentukan lisensi setelah masa seleksi dan penjurian selesai.
+Belum ditentukan. Saat ini semua hak dipegang tim karena tidak ada lisensi. Lisensi akan ditentukan setelah masa seleksi dan penjurian selesai.
